@@ -1,0 +1,117 @@
+---
+object: card
+id: f582e3c3-c329-40bb-9ffb-c4812a7aedd5
+oracle_id: 2c6934b6-67c4-457a-ae8f-59914fd8f256
+multiverse_ids:
+- 429886
+mtgo_id: 64408
+mtgo_foil_id: 64409
+tcgplayer_id: 129729
+cardmarket_id: 296693
+name: Hazoret the Fervent
+lang: en
+released_at: '2017-04-28'
+uri: https://api.scryfall.com/cards/f582e3c3-c329-40bb-9ffb-c4812a7aedd5
+scryfall_uri: https://scryfall.com/card/mp2/27/hazoret-the-fervent?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/5/f582e3c3-c329-40bb-9ffb-c4812a7aedd5.jpg?1562944464
+  normal: https://cards.scryfall.io/normal/front/f/5/f582e3c3-c329-40bb-9ffb-c4812a7aedd5.jpg?1562944464
+  large: https://cards.scryfall.io/large/front/f/5/f582e3c3-c329-40bb-9ffb-c4812a7aedd5.jpg?1562944464
+  png: https://cards.scryfall.io/png/front/f/5/f582e3c3-c329-40bb-9ffb-c4812a7aedd5.png?1562944464
+  art_crop: https://cards.scryfall.io/art_crop/front/f/5/f582e3c3-c329-40bb-9ffb-c4812a7aedd5.jpg?1562944464
+  border_crop: https://cards.scryfall.io/border_crop/front/f/5/f582e3c3-c329-40bb-9ffb-c4812a7aedd5.jpg?1562944464
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Legendary Creature — God
+oracle_text: |-
+  Indestructible, haste
+  Hazoret the Fervent can't attack or block unless you have one or fewer cards in hand.
+  {2}{R}, Discard a card: Hazoret deals 2 damage to each opponent.
+power: '5'
+toughness: '4'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Indestructible
+- Haste
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: c26402e7-838e-48db-a4b2-7abfc305998a
+set: mp2
+set_name: Amonkhet Invocations
+set_type: masterpiece
+set_uri: https://api.scryfall.com/sets/c26402e7-838e-48db-a4b2-7abfc305998a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amp2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mp2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f582e3c3-c329-40bb-9ffb-c4812a7aedd5/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2c6934b6-67c4-457a-ae8f-59914fd8f256&unique=prints
+collector_number: '27'
+digital: false
+rarity: special
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Joseph Meehan
+artist_ids:
+- 6befd6d5-7f8d-4b7c-87e3-5511391a3359
+illustration_id: 719849f2-3505-412f-a94d-de0df61d777e
+border_color: borderless
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10171
+penny_rank: 161
+prices:
+  usd: 
+  usd_foil: '63.18'
+  usd_etched: 
+  eur: 
+  eur_foil: '50.29'
+  tix: '0.24'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429886
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hazoret+the+Fervent&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hazoret+the+Fervent&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hazoret+the+Fervent
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/129729?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hazoret+the+Fervent&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/64408?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

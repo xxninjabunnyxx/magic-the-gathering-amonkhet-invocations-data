@@ -1,0 +1,110 @@
+---
+object: card
+id: 466d6254-4d5c-4f66-a018-eb4a3ec1881c
+oracle_id: 299fc083-0834-4064-8344-f895aff68867
+multiverse_ids:
+- 429882
+mtgo_id: 64400
+mtgo_foil_id: 64401
+tcgplayer_id: 129564
+cardmarket_id: 296613
+name: Entomb
+lang: en
+released_at: '2017-04-28'
+uri: https://api.scryfall.com/cards/466d6254-4d5c-4f66-a018-eb4a3ec1881c
+scryfall_uri: https://scryfall.com/card/mp2/23/entomb?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/6/466d6254-4d5c-4f66-a018-eb4a3ec1881c.jpg?1562909283
+  normal: https://cards.scryfall.io/normal/front/4/6/466d6254-4d5c-4f66-a018-eb4a3ec1881c.jpg?1562909283
+  large: https://cards.scryfall.io/large/front/4/6/466d6254-4d5c-4f66-a018-eb4a3ec1881c.jpg?1562909283
+  png: https://cards.scryfall.io/png/front/4/6/466d6254-4d5c-4f66-a018-eb4a3ec1881c.png?1562909283
+  art_crop: https://cards.scryfall.io/art_crop/front/4/6/466d6254-4d5c-4f66-a018-eb4a3ec1881c.jpg?1562909283
+  border_crop: https://cards.scryfall.io/border_crop/front/4/6/466d6254-4d5c-4f66-a018-eb4a3ec1881c.jpg?1562909283
+mana_cost: "{B}"
+cmc: 1.0
+type_line: Instant
+oracle_text: Search your library for a card, put that card into your graveyard, then
+  shuffle.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: banned
+  oldschool: not_legal
+  premodern: banned
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: c26402e7-838e-48db-a4b2-7abfc305998a
+set: mp2
+set_name: Amonkhet Invocations
+set_type: masterpiece
+set_uri: https://api.scryfall.com/sets/c26402e7-838e-48db-a4b2-7abfc305998a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amp2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mp2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/466d6254-4d5c-4f66-a018-eb4a3ec1881c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A299fc083-0834-4064-8344-f895aff68867&unique=prints
+collector_number: '23'
+digital: false
+rarity: special
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eytan Zana
+artist_ids:
+- 0d8d6726-4051-445a-8374-a919aad98f38
+illustration_id: c89f3864-4053-4a02-85a3-264a120770a7
+border_color: borderless
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 308
+prices:
+  usd: 
+  usd_foil: '88.59'
+  usd_etched: 
+  eur: 
+  eur_foil: '68.00'
+  tix: '2.27'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429882
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Entomb&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Entomb&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Entomb
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/129564?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Entomb&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/64400?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

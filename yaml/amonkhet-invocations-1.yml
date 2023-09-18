@@ -1,0 +1,115 @@
+---
+object: card
+id: dbbf55bc-6bb3-458a-8cf0-1f603bb2acb3
+oracle_id: '09cc8709-fe10-472a-b05c-e89f3523018d'
+multiverse_ids:
+- 429860
+mtgo_id: 64356
+mtgo_foil_id: 64357
+tcgplayer_id: 129560
+cardmarket_id: 296606
+name: Austere Command
+lang: en
+released_at: '2017-04-28'
+uri: https://api.scryfall.com/cards/dbbf55bc-6bb3-458a-8cf0-1f603bb2acb3
+scryfall_uri: https://scryfall.com/card/mp2/1/austere-command?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/b/dbbf55bc-6bb3-458a-8cf0-1f603bb2acb3.jpg?1562939169
+  normal: https://cards.scryfall.io/normal/front/d/b/dbbf55bc-6bb3-458a-8cf0-1f603bb2acb3.jpg?1562939169
+  large: https://cards.scryfall.io/large/front/d/b/dbbf55bc-6bb3-458a-8cf0-1f603bb2acb3.jpg?1562939169
+  png: https://cards.scryfall.io/png/front/d/b/dbbf55bc-6bb3-458a-8cf0-1f603bb2acb3.png?1562939169
+  art_crop: https://cards.scryfall.io/art_crop/front/d/b/dbbf55bc-6bb3-458a-8cf0-1f603bb2acb3.jpg?1562939169
+  border_crop: https://cards.scryfall.io/border_crop/front/d/b/dbbf55bc-6bb3-458a-8cf0-1f603bb2acb3.jpg?1562939169
+mana_cost: "{4}{W}{W}"
+cmc: 6.0
+type_line: Sorcery
+oracle_text: |-
+  Choose two —
+  • Destroy all artifacts.
+  • Destroy all enchantments.
+  • Destroy all creatures with mana value 3 or less.
+  • Destroy all creatures with mana value 4 or greater.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: c26402e7-838e-48db-a4b2-7abfc305998a
+set: mp2
+set_name: Amonkhet Invocations
+set_type: masterpiece
+set_uri: https://api.scryfall.com/sets/c26402e7-838e-48db-a4b2-7abfc305998a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amp2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mp2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/dbbf55bc-6bb3-458a-8cf0-1f603bb2acb3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A09cc8709-fe10-472a-b05c-e89f3523018d&unique=prints
+collector_number: '1'
+digital: false
+rarity: special
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Richard Wright
+artist_ids:
+- 7b1b0ce9-2c58-4321-a2a7-cdc94feae082
+illustration_id: 1600fbf8-a6a3-4bb3-b1ec-7c957e335035
+border_color: borderless
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 155
+penny_rank: 5624
+prices:
+  usd: 
+  usd_foil: '46.09'
+  usd_etched: 
+  eur: 
+  eur_foil: '26.99'
+  tix: '0.10'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429860
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Austere+Command&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Austere+Command&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Austere+Command
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/129560?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Austere+Command&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/64356?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
